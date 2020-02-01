@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473466507694",
+    "firebase_url": "https://alapalma-c1293.firebaseio.com",
+    "project_id": "alapalma-c1293",
+    "storage_bucket": "alapalma-c1293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473466507694:android:83fdc633133ef78262383f",
+        "android_client_info": {
+          "package_name": "com.businessalapalma.alapalma1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473466507694-73b7r0f8usfp2e78srjbi54m99igue0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.businessalapalma.alapalma1",
+            "certificate_hash": "c384a957c7a1118e17614befdc5211dad6bd5bd2"
+          }
+        },
+        {
+          "client_id": "473466507694-1gl29c3ec3jq6h3gbnie8u3pvdlvmngh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH9qfT0QsFUFs8O_9WRgOvY6pmbVigAJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473466507694-1gl29c3ec3jq6h3gbnie8u3pvdlvmngh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
